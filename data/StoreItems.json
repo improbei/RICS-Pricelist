@@ -2178,7 +2178,7 @@
     "ComponentSpacer": {
       "DefName": "ComponentSpacer",
       "CustomName": "Advanced component",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 50,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -17337,7 +17337,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 5,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientEquipmentBlocks": {
@@ -17352,7 +17352,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 7,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMachine": {
@@ -17367,7 +17367,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientStorageCylinder": {
@@ -17382,7 +17382,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 7,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientBed": {
@@ -17427,7 +17427,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 3,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientCrate": {
@@ -17457,7 +17457,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSpacerCrate": {
@@ -17472,7 +17472,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientBarrel": {
@@ -17502,7 +17502,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientOperatingTable": {
@@ -17517,7 +17517,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientShoppingCart": {
@@ -17532,7 +17532,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPostbox": {
@@ -17547,7 +17547,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientVendingMachine": {
@@ -17562,7 +17562,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientAirConditioner": {
@@ -17592,7 +17592,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientStove": {
@@ -17607,7 +17607,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientOven": {
@@ -17622,7 +17622,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientATM": {
@@ -17652,7 +17652,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientHydrant": {
@@ -17667,7 +17667,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMicrowave": {
@@ -17682,7 +17682,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientToilet": {
@@ -17697,7 +17697,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRefrigerator": {
@@ -17712,7 +17712,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSmallCrate": {
@@ -17727,7 +17727,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientLongCrate": {
@@ -17742,7 +17742,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientLargeCrate": {
@@ -17757,7 +17757,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWheel": {
@@ -17772,7 +17772,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientGiantWheel": {
@@ -17787,7 +17787,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedCar": {
@@ -17817,7 +17817,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedJeep": {
@@ -17862,7 +17862,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedDropship": {
@@ -17877,7 +17877,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerClaw": {
@@ -17892,7 +17892,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerLeg": {
@@ -17907,7 +17907,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMiniWarwalkerRemains": {
@@ -17922,7 +17922,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarspiderRemains": {
@@ -17937,7 +17937,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPipelineSection": {
@@ -17952,7 +17952,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerFoot": {
@@ -17967,7 +17967,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientTank": {
@@ -17982,7 +17982,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientAPC": {
@@ -17997,7 +17997,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerShell": {
@@ -18012,7 +18012,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientJetEngine": {
@@ -18027,7 +18027,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientDropshipEngine": {
@@ -18042,7 +18042,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPodCar": {
@@ -18057,7 +18057,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientTankTrap": {
@@ -18072,7 +18072,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientLargeRustedEngineBlock": {
@@ -18087,7 +18087,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientFence": {
@@ -18102,7 +18102,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRazorWire": {
@@ -18117,7 +18117,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPipes": {
@@ -18132,7 +18132,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMegaCannonTripod": {
@@ -18147,7 +18147,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMegaCannonBarrel": {
@@ -18162,7 +18162,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientContainer": {
@@ -18192,7 +18192,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMechDropBeacon": {
@@ -18207,7 +18207,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSecurityTurret": {
@@ -18222,7 +18222,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedEngineBlock": {
@@ -18237,7 +18237,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientShipBeacon": {
@@ -18252,7 +18252,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSpaceJunk": {
