@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Psycasts Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_RadioactiveFog": {
@@ -116,7 +116,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Furniture Expanded - Power",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   }
 }
